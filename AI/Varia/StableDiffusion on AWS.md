@@ -1,6 +1,10 @@
-- *Publishing date:* 2024-06-11, 10:59.
-- *Credits:* based on the article entitled “How to run Stable Diffusion on AWS” and published on the [SDArt website](https://stable-diffusion-art.com/aws-ec2/).
-
+---
+title: StableDiffusion on AWS
+info: How to create a personal generative AI server with AWS
+credits: based on the "Stable Diffusion Art" post available at https://stable-diffusion-art.com/aws-ec2/
+pub date: 2024-06-11, 10:59
+tags:
+  - varia
 ---
 
 > [!warning]

@@ -1,6 +1,10 @@
-# Creative Coding and Generative Art
+# Book of Shades
 
-This repository collects all my notes, codes, patches, resources and various tricks related to creative coding and generative art.
+### notebooks of generative art and creative coding
+
+![[socialimg.jpg]]
+
+This repository collects all my exercises, notes, codes, patches, resources and dirty tricks related to creative coding and generative art.
 
 The repository is organized in the form of an [Obsidian](https://obsidian.md) vault. 
 
