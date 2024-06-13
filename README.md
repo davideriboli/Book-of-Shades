@@ -2,7 +2,7 @@
 
 ### notebooks of generative art and creative coding
 
-![[socialimg.jpg]]
+<img src="socialimg.jpg">
 
 This repository collects all my exercises, notes, codes, patches, resources and dirty tricks related to creative coding and generative art.
 
